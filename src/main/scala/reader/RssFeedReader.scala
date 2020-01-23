@@ -25,11 +25,11 @@ case class Channel(title: String,
                    description: String,
                    language: String,
                    lastBuildDate: String,
-                   ttl: Int,
+                   ttl: Option[Int],
                    generator: String,
                    copyright: String,
                    webMaster: String,
-                   image: ChannelImage,
+                   image: Option[ChannelImage],
                    items: Seq[Channelltem])
 
 object RssFeedReader {
@@ -41,9 +41,9 @@ object RssFeedReader {
 
     val items = for (item <- channel \ "item") yield {
       Channelltem(
-        (item \ "title").text,
-        (item \ "link").text,
-        (item \ "description").text,
+        (item \ "title").text.trim,
+        (item \ "link").text.trim,
+        (item \ "description").text.trim,
         (item \ "pubDate").text,
         Guid(
           (item \ "guid" \ "@isPermaLink").text.toBoolean,
@@ -60,33 +60,33 @@ object RssFeedReader {
       (channel \ "description").text,
       (channel \ "language").text,
       (channel \ "lastBuildDate").text,
-      (channel \ "ttl").text.toInt,
+      parseOptionalElementAsInt(channel \ "ttl"),
       (channel \ "generator").text,
       (channel \ "copyright").text,
       (channel \ "webMaster").text,
-      ChannelImage(
-        (channel \ "image" \ "url").text,
-        (channel \ "image" \ "title").text,
-        (channel \ "image" \ "link").text,
-        Option(
-          parseOptionalElement("width", channel)
-            .getOrElse(0)
-            .asInstanceOf[Int]),
-        Option(
-          parseOptionalElement("height", channel)
-            .getOrElse(0)
-            .asInstanceOf[Int])
-      ),
+      Option(
+        ChannelImage(
+          (channel \ "image" \ "url").text,
+          (channel \ "image" \ "title").text,
+          (channel \ "image" \ "link").text,
+          parseOptionalElementAsInt(channel \ "image" \ "width"),
+          parseOptionalElementAsInt(channel \ "image" \ "height")
+        )),
       items
     )
 
   }
 
-  def parseOptionalElement(el: String, channel: NodeSeq): Option[Any] = {
-    try {
-      Some((channel \ "image" \ el).text.toInt)
+  def parseOptionalElementAsInt(el: NodeSeq): Option[Int] = {
+    val value = try {
+      Some(el.text.toInt)
     } catch {
       case _: NumberFormatException => None;
     }
+
+    Option(
+      value
+        .getOrElse(0)
+        .asInstanceOf[Int])
   }
 }
