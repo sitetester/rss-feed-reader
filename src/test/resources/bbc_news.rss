@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+            <width>999</width>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 23 Jan 2020 11:12:57 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[China coronavirus: Wuhan and Huanggang on lockdown]]></title>
+            <description><![CDATA[There are more than 500 confirmed cases of the virus, which has also spread abroad.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-51217455</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-51217455</guid>
+            <pubDate>Thu, 23 Jan 2020 11:05:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[East Kent hospitals: Baby death parents’ heartbreak over errors]]></title>
+            <description><![CDATA[At least seven babies have died since 2016 at one of the largest hospital groups in England, the BBC finds.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51193332</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51193332</guid>
+            <pubDate>Thu, 23 Jan 2020 07:53:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[John Bercow: Formal complaint lodged against former Commons Speaker]]></title>
+            <description><![CDATA[Accusations against the ex-Speaker by one of his most senior advisers are thought to centre around bullying.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-51220144</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-51220144</guid>
+            <pubDate>Thu, 23 Jan 2020 09:54:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Myanmar Rohingya: World court orders prevention of genocide]]></title>
+            <description><![CDATA[The decision comes despite Myanmar de facto leader Aung San Suu Kyi's defence arguments.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-51221029</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-51221029</guid>
+            <pubDate>Thu, 23 Jan 2020 10:35:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australia fires: US crew dead in firefighting plane crash]]></title>
+            <description><![CDATA[Three people are dead after a large air tanker went down fighting bushfires in New South Wales.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-51217076</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-51217076</guid>
+            <pubDate>Thu, 23 Jan 2020 07:31:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Auschwitz: Prince Charles to warn world leaders over 'hatred']]></title>
+            <description><![CDATA[On a visit to Israel, he will tell US, Russian and French leaders of the lessons of the Holocaust.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51219034</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51219034</guid>
+            <pubDate>Thu, 23 Jan 2020 11:11:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jessica Simpson reveals childhood sexual abuse]]></title>
+            <description><![CDATA[The singer reveals in her new book how a childhood incident led to a reliance on drugs and alcohol.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-51219549</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-51219549</guid>
+            <pubDate>Thu, 23 Jan 2020 09:57:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Isabel dos Santos: Africa's richest woman accused of fraud]]></title>
+            <description><![CDATA[Africa's richest woman is provisionally charged with embezzlement by her country's prosecutors.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-51218501</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-51218501</guid>
+            <pubDate>Thu, 23 Jan 2020 09:58:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Two weeks of leave for UK parents who lose a child]]></title>
+            <description><![CDATA[The law, which will come into force in April, will be the most generous in the world, ministers say.]]></description>
+            <link>https://www.bbc.co.uk/news/business-51204068</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-51204068</guid>
+            <pubDate>Thu, 23 Jan 2020 08:18:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Victoria Derbyshire says 'we don't give up' after her TV show is cut]]></title>
+            <description><![CDATA[Victoria Derbyshire addresses the news that her TV show is coming off air, saying "we're still here".]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-51214425</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-51214425</guid>
+            <pubDate>Thu, 23 Jan 2020 10:33:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Juice WRLD: Rapper died from accidental overdose of painkillers, coroner rules]]></title>
+            <description><![CDATA[A medical examiner has ruled that the rapper died as a result of oxycodone and codeine toxicity,]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-51218254</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-51218254</guid>
+            <pubDate>Thu, 23 Jan 2020 09:58:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Harry and Meghan: How much privacy can they expect in Canada?]]></title>
+            <description><![CDATA[The couple complained about media intrusion within hours of relocating to Vancouver, Canada.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51205484</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51205484</guid>
+            <pubDate>Thu, 23 Jan 2020 03:59:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I helped convict the bishop who abused me']]></title>
+            <description><![CDATA[Sexual abuse survivors tell of their grooming at the hands of Bishop Peter Ball.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-51207676</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-51207676</guid>
+            <pubDate>Thu, 23 Jan 2020 02:46:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jean-Paul Gaultier: Stars turn out for designer's final show]]></title>
+            <description><![CDATA[French fashion designer Jean-Paul Gaultier ends a 50-year career with his last couture runway show.]]></description>
+            <link>https://www.bbc.co.uk/news/world-51214874</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-51214874</guid>
+            <pubDate>Thu, 23 Jan 2020 09:13:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Running and male suicide: ‘Running almost pushed me over the edge’]]></title>
+            <description><![CDATA[Mark used running to cope with his friend’s suicide. But it grew to take over his identity.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-51212273</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-51212273</guid>
+            <pubDate>Thu, 23 Jan 2020 00:57:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: Fears over deadly virus and 'sour' UK-US relations]]></title>
+            <description><![CDATA[Thursday's newspapers feature a range of stories, including the latest on the Chinese coronavirus.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-51215994</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-51215994</guid>
+            <pubDate>Thu, 23 Jan 2020 06:05:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ivory Coast is using plastic waste to build schools]]></title>
+            <description><![CDATA[The West African country has partnered with UNICEF to transform landfill waste into bricks for schools.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-51213133</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-51213133</guid>
+            <pubDate>Thu, 23 Jan 2020 00:32:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Three generations join Delhi women's citizenship sit-in]]></title>
+            <description><![CDATA[Thousands of women are camping out in a Delhi suburb in protest over a law they see as anti-Muslim.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-51214655</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-51214655</guid>
+            <pubDate>Thu, 23 Jan 2020 00:30:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lions and tigers escape circus for vast new home]]></title>
+            <description><![CDATA[Seventeen big cats rescued from Guatemalan circuses have moved to a South African wildlife sanctuary.]]></description>
+            <link>https://www.bbc.co.uk/news/world-51214654</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-51214654</guid>
+            <pubDate>Thu, 23 Jan 2020 00:36:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does a milk advert show Harry and Meghan's future?]]></title>
+            <description><![CDATA[As the Queen's grandson sells Jersey milk in China, critics call for clarity over royal endorsements.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51188894</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51188894</guid>
+            <pubDate>Wed, 22 Jan 2020 10:59:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Terry Jones: Life in pictures]]></title>
+            <description><![CDATA[Pictures from the life of The Monty Python star Terry Jones, who has died at the age of 77.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-51205435</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-51205435</guid>
+            <pubDate>Wed, 22 Jan 2020 15:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Davos 2020: Prince Charles meets Greta Thunberg]]></title>
+            <description><![CDATA[The heir to the throne calls for a "paradigm shift" in the way the world deals with climate change.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51211853</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51211853</guid>
+            <pubDate>Wed, 22 Jan 2020 16:21:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stranded dolphins rescued from mud in Thames Estuary]]></title>
+            <description><![CDATA[It took rescuers two hours to free the pair after the mammals became stuck in muddy waters.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-essex-51206324</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-essex-51206324</guid>
+            <pubDate>Wed, 22 Jan 2020 10:21:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can wearing masks stop the spread of viruses?]]></title>
+            <description><![CDATA[Surgical masks have been used to prevent illness in China for decades.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51205344</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51205344</guid>
+            <pubDate>Thu, 23 Jan 2020 01:08:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Auschwitz: How death camp became centre of Nazi Holocaust]]></title>
+            <description><![CDATA[It is 75 years since Soviet Union troops liberated Auschwitz - now marked as Holocaust Memorial Day.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-50743973</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-50743973</guid>
+            <pubDate>Thu, 23 Jan 2020 01:06:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why is 'pettifogging' suddenly in the news?]]></title>
+            <description><![CDATA[The word has all but disappeared from modern usage - so what does it mean and why is it relevant?]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-51198666</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-51198666</guid>
+            <pubDate>Wed, 22 Jan 2020 21:48:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Overdrafts: Why you shouldn't ignore that message from your bank about fees]]></title>
+            <description><![CDATA[Overdrafts are undergoing their biggest change in a generation and it could double your costs.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-51205914</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-51205914</guid>
+            <pubDate>Thu, 23 Jan 2020 02:09:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How do you quarantine a city - and does it work?]]></title>
+            <description><![CDATA[People in Wuhan are being stopped from leaving - but it may not prevent the virus from spreading.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-51218014</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-51218014</guid>
+            <pubDate>Thu, 23 Jan 2020 10:21:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Problem gambling: Why do some people become addicted?]]></title>
+            <description><![CDATA[Over half of Britons gambled in the past year, so why does it become a problem for some?]]></description>
+            <link>https://www.bbc.co.uk/news/health-50828086</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-50828086</guid>
+            <pubDate>Thu, 23 Jan 2020 03:04:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I have to live on $1,175 a year']]></title>
+            <description><![CDATA[Brazil's army of fruit workers speak of struggling with low pay and dangerous working conditions.]]></description>
+            <link>https://www.bbc.co.uk/news/business-51189399</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-51189399</guid>
+            <pubDate>Thu, 23 Jan 2020 00:16:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tyson Fury: How Manchester fighter has built his following - and plans to break America]]></title>
+            <description><![CDATA[Few might have predicted the marketing success of Tyson Fury. Imagination, charisma, talent - and honesty. This is how he did it.]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/51098571</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/51098571</guid>
+            <pubDate>Thu, 23 Jan 2020 01:27:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My Money: 'I had to get tickets, it was a huge sum, $519!']]></title>
+            <description><![CDATA[As part of a BBC blog series, Sunneva María Svövudóttir from Iceland shares what she spent this week.]]></description>
+            <link>https://www.bbc.co.uk/news/business-51021020</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-51021020</guid>
+            <pubDate>Thu, 23 Jan 2020 00:24:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beyond Veganuary: Is going plant-based a smart way to lose weight?]]></title>
+            <description><![CDATA[People with eating disorders may use veganism as a "socially acceptable" restrictive diet, a charity warns.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51160478</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51160478</guid>
+            <pubDate>Wed, 22 Jan 2020 02:08:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The writers breathing life into black British history]]></title>
+            <description><![CDATA[Several little-known but remarkable stories of the 18th and 19th Centuries are being told on stage.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-51177299</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-51177299</guid>
+            <pubDate>Wed, 22 Jan 2020 00:10:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What happens when we're too old to be 'useful'?]]></title>
+            <description><![CDATA[Can we afford to pay pensions, given the huge demographic challenge of our ageing population?]]></description>
+            <link>https://www.bbc.co.uk/news/business-50673645</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-50673645</guid>
+            <pubDate>Wed, 22 Jan 2020 00:48:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is universal credit - and what's the problem?]]></title>
+            <description><![CDATA[Universal credit was designed to simplify the welfare system but its introduction has proved controversial.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-41487126</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-41487126</guid>
+            <pubDate>Wed, 22 Jan 2020 15:42:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China coronavirus: Your questions answered]]></title>
+            <description><![CDATA[Are airports screening arrivals? Can the virus affect anyone who has travelled to China recently?]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-51176409</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-51176409</guid>
+            <pubDate>Wed, 22 Jan 2020 15:28:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rough sex murder defence: Why campaigners want it banned]]></title>
+            <description><![CDATA[Campaigners say men are increasingly using the defence to try to get away with murdering women.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-51151182</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-51151182</guid>
+            <pubDate>Wed, 22 Jan 2020 00:56:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sirius: 'You feel sorry for people who've invested a lot']]></title>
+            <description><![CDATA[Mining giant Anglo American will buy Sirius, but for only a quarter of what it was worth months ago.]]></description>
+            <link>https://www.bbc.co.uk/news/business-51189749</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-51189749</guid>
+            <pubDate>Wed, 22 Jan 2020 00:47:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Toxic, embarrassing, worst squad in 30 years' - pundits and fans on Man Utd defeat]]></title>
+            <description><![CDATA[Manchester United's latest defeat has seen the atmosphere turn "toxic" at Old Trafford, says former midfielder Darren Fletcher.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/51212537</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/51212537</guid>
+            <pubDate>Thu, 23 Jan 2020 00:03:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[British singles interest ends at Australian Open as Dart & Watson beaten]]></title>
+            <description><![CDATA[Harriet Dart and Heather Watson are both beaten by seeds as British interest in the Australian Open singles ends on day four.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/51216794</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/51216794</guid>
+            <pubDate>Thu, 23 Jan 2020 09:58:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Manchester United 'not good enough' in Burnley defeat - Solskjaer]]></title>
+            <description><![CDATA[Ole Gunnar Solskjaer says Manchester United were "not good enough" in their 2-0 defeat against Burnley at Old Trafford.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/51216421</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/51216421</guid>
+            <pubDate>Wed, 22 Jan 2020 23:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I design shoes for Cristiano Ronaldo, the Beckhams and Justin Timberlake']]></title>
+            <description><![CDATA["Kickasso" makes a special shoe for Juventus' Cristiano Ronaldo and explains how he designed footwear for David Beckham's son, Ashley Cole, Justin Timberlake and Odell Beckham Jr.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/51163937</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/51163937</guid>
+            <pubDate>Thu, 23 Jan 2020 06:20:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How a boy from Vietnam became a slave on a UK cannabis farm]]></title>
+            <description><![CDATA[Ba was a street child in Ho Chi Minh city. He ended up growing cannabis as a slave in the UK - until he escaped.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-51176958</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-51176958</guid>
+            <pubDate>Tue, 21 Jan 2020 00:33:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

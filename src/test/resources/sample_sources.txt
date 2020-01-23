@@ -1,0 +1,6 @@
+- SEE all rss categories here - https://www.bbc.com/news/10628494
+
+- view-source:http://feeds.bbci.co.uk/news/rss.xml
+- https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en
+- https://news.yahoo.com/rss/entertainment
+- https://sports.yahoo.com/mlb/teams/bos/rss/?shangrila=1
